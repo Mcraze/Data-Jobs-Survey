@@ -14,7 +14,7 @@ In this data professionals job survey project, conducted by Alex Freberg, insigh
 - Are there any correlations between salary satisfaction, co-worker happiness, and career transitions among the survey takers?
 
 ### Dashboard Design:
-![Data Survey](https://github.com/Mcraze/Data-Jobs-Survey/assets/84672998/fbaa1f9c-f3dd-4b2d-986d-9b09ee9bb1d1)
+![Data Survey](https://github.com/Mcraze/Data-Jobs-Survey/assets/84672998/786fefa3-17d7-4504-bca5-4b2ccdcfa3a5)
 
 ### Generated Insights:
 - The average age of survey takers is 29 years, with 74% of respondents being men.
